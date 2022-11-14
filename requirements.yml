@@ -1,2 +1,3 @@
-- src: https://github.com/galaxyproject/ansible-galaxy.git
+- src: https://github.com/ksuderman/ansible-galaxy.git
+  version: setuptools
   name: galaxy
